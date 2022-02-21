@@ -1,1 +1,1 @@
-# laughing-telegram
+# Telegramic - A Manager for python
