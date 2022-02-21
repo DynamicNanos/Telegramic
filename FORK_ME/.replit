@@ -1,1 +1,2 @@
-run = "FORK_ME/main.py
+run = "FORK_ME/main.py"
+language = "Python3"
